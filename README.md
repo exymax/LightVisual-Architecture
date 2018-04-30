@@ -1,3 +1,3 @@
 # LightVisual-Architecture
 
-https://evgeniigrh.github.io/LightVisual-Architecture/
+https://exymax.github.io/LightVisual-Architecture/
