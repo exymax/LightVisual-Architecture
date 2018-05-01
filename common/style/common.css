@@ -278,6 +278,10 @@ a{
     font-size: 14px;
 }
 
+.footer-text-year {
+    text-transform: uppercase;
+}
+
 /*.footer-text{
     font-family: Roboto, sans-serif;
     font-size: 18px;
